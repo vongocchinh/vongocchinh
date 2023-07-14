@@ -1,4 +1,7 @@
 [![](https://img.shields.io/badge/-@vongocchinh-%23181717?style=flat-square&logo=github)](https://github.com/vongocchinh)
+
+Hi 👋, I'm Martin!
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
