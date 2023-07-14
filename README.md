@@ -1,26 +1,11 @@
+*Welcome to the profile*
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div align="center" id="badges">
-  <a target="_blank" href="https://www.facebook.com/ngocchinh1410">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 <div align="center">
   
   ![](https://komarev.com/ghpvc/?username=vongocchinh)
-</div>
-
-<div align="center">
-  <img src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" width="640" height="300"/>
-  
 </div>
 
 <div align="center">
@@ -37,9 +22,10 @@
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vongocchinh&theme=codestackr&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vongocchinh&theme=codestackr&hide_border=true)](https://git.io/streak-stats)
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vongocchinh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
