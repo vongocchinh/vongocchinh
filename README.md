@@ -18,9 +18,7 @@
   ![](https://komarev.com/ghpvc/?username=vongocchinh)
 </div>
 
-<div align="center" style="
-    margin-bottom: 10px;
-">
+<div align="center" margin-bottom="10px">
   <img src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" width="640" height="300"/>
 </div>
 
