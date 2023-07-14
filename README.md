@@ -1,6 +1,6 @@
-[![](https://img.shields.io/badge/-@vongocchinh-%23181717?style=flat-square&logo=github)](https://github.com/vongocchinh)
+Hi 👋, I'm Chinh! 
 
-Hi 👋, I'm Martin!
+[![](https://img.shields.io/badge/-@vongocchinh-%23181717?style=flat-square&logo=github)](https://github.com/vongocchinh)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -37,8 +37,4 @@ Hi 👋, I'm Martin!
 ![daniaalnadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=vongocchinh&show_icons=true&theme=dracula&count_private=true)
 
 </div>
-
----
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
