@@ -13,8 +13,8 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div align="center" style="margin-top: 10px">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://stock.adobe.com/search/images?k=frontend)" width="100%" height="300"/>
 </div>
 <div align="center">
   
