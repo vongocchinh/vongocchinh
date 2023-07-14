@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center" id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/Facebook-blue" alt="LinkedIn Badge"/>
+  <a href="[your-linkedin-URL](https://www.facebook.com/ngocchinh1410/)">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
